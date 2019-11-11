@@ -17,6 +17,7 @@ import java.io.InputStream;
  * @author jiyouxu
  * @date 2019/11/9
  */
+@CrossOrigin
 @RestController
 @RequestMapping("/api/article")
 public class ArticleApi {
